@@ -1,4 +1,4 @@
-# Music Classification Project - Shai for AI (Group D) (Kaggle-Competition)[Kaggle Competition URL Placeholder](https://www.kaggle.com/competitions/music-genre-classification-2024/overview]
+# Music Classification Project - Shai for AI (Group D) [Kaggle-Competition](https://www.kaggle.com/competitions/music-genre-classification-2024/overview)
 
 ## Overview
 This project, part of Shai for AI's Machine Learning Internship, namely the classification task kaggle competition, as part of Group D. It focuses on classifying songs based on various audio features like danceability, energy, loudness, and more, using machine learning models. The dataset contains both numeric and categorical features, and the task involves predicting the class (popularity level) of the songs.
@@ -30,7 +30,7 @@ The dataset includes the following features:
 ## Data Preprocessing
 - Boxplots and histograms were generated to understand the distribution of numeric features.
 - Correlations between numeric features were visualized using a heatmap.
-- Categorical features like **Artist Name** were handled using the **CatBoostClassifier**, which efficiently deals with categorical variables.
+- Categorical features like **Artist Name** needed to be handeled using effecient encoding algorithms as per the sheer amount of unique variables.
 
 ## Visualization
 - Histograms were created to observe the distributions of numeric features.
