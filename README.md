@@ -61,6 +61,8 @@ The **CatBoostClassifier** was chosen as the primary model due to its ability to
 - The model was evaluated using the F1 Score (macro), which balances precision and recall across multiple classes.
 - The F1 score achieved on the test set was 0.667.
 
+Note: The official attempt github page can be found in my team member's page : [GitHub page](https://github.com/nesmasilman/ShAI_Final_Project_Music_Genre
+
 ## Requirements
 To run this project, you'll need the following Python libraries:
 
