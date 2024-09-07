@@ -77,7 +77,7 @@ You can install the required libraries using pip:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn catboost
-
+```
 
 ## How to Run the Code
 
@@ -104,8 +104,7 @@ This section outlines the steps to execute the music classification script:
 
 ```bash
 python music_classification.py
-
-
+```
 **Conclusion**
 
 This project demonstrates the application of machine learning for classifying songs based on various audio and metadata features. The CatBoostClassifier was employed as the primary model and achieved a satisfactory performance. Future improvements can be explored through hyperparameter tuning and experimentation with alternative models.
